@@ -1,5 +1,5 @@
 ### Hi there 👋
-my![Visitor Count](https://profile-counter.glitch.me/taka250/count.svg)visters
+My ![Visitor Count](https://profile-counter.glitch.me/taka250/count.svg) Visters
 
 - 🔭 I’m currently working on ...web or more？
 - 
